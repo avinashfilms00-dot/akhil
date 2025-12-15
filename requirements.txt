@@ -1,0 +1,3 @@
+# Requirements for packaging
+pyinstaller>=5.1
+# tkinter is part of the standard library on Windows (no pip package)
